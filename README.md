@@ -6,6 +6,8 @@ The Home page shows Trending GIFS, If you scroll down you can see lot of trendin
 
 There is Search Bar where you can search for any gifs, here are also you can see lot of gifs related to search item.
 
+After searching, if we make search bar empty. It will automatically shows trending GIFS. 
+
 For GIFS I used GIPHY API calls.
 
 This Website is responsive for all types of devices.
