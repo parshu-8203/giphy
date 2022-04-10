@@ -8,11 +8,16 @@ There is Search Bar where you can search for any gifs, here are also you can see
 
 For GIFS I used GIPHY API calls.
 
+This Website is responsive for all types of devices.
+
 # Preview 
+
+HOME PAGE
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/83816376/162615452-93906fda-d5f4-41b1-9809-eae2540bec51.png)
 
-  
+ 
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
