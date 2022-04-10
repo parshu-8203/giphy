@@ -1,3 +1,17 @@
+# GIPHY WEBSITE USING REACT, AXIOM
+
+This Website contains GIFS, you can search for any GIFS. This website is built using react and Axiom. 
+
+The Home page shows Trending GIFS, If you scroll down you can see lot of trending gifs (infinite Scrolling)
+
+There is Search Bar where you can search for any gifs, here are also you can see lot of gifs related to search item.
+
+For GIFS I used GIPHY API calls.
+
+# Preview 
+
+
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
