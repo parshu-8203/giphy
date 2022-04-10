@@ -10,6 +10,7 @@ For GIFS I used GIPHY API calls.
 
 # Preview 
 
+![Screenshot (34)](https://user-images.githubusercontent.com/83816376/162615452-93906fda-d5f4-41b1-9809-eae2540bec51.png)
 
   
 # Getting Started with Create React App
