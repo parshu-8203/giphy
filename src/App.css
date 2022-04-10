@@ -1,0 +1,29 @@
+body{
+  background-color:#404040;
+}
+
+.gifs{
+  margin: 0 auto;
+  width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+.loader
+{
+  color:blue;
+
+}
+.gif {
+  margin-top: 3px;
+  margin-left: 3px;
+  margin-bottom: 3px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: linear-gradient(to right, #999 , #ccc);
+  border: 2px solid black;
+}
+.gif:hover{
+  border:2px solid white;
+}
