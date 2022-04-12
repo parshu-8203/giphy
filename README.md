@@ -1,6 +1,6 @@
 # GIPHY WEBSITE USING REACT, AXIOM
 
-This Website contains GIFS, you can search for any GIFS. This website is built using react and Axiom. 
+This Website show GIFS, you can search for any GIFS. This website is built using react and Axiom. 
 
 The Home page shows Trending GIFS, If you scroll down you can see a lot of trending gifs (infinite Scrolling)
 
