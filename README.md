@@ -2,15 +2,16 @@
 
 This Website contains GIFS, you can search for any GIFS. This website is built using react and Axiom. 
 
-The Home page shows Trending GIFS, If you scroll down you can see lot of trending gifs (infinite Scrolling)
+The Home page shows Trending GIFS, If you scroll down you can see a lot of trending gifs (infinite Scrolling)
 
-There is Search Bar where you can search for any gifs, here are also you can see lot of gifs related to search item.
+There is Search Bar where you can search for any gifs, here also you can see a lot of gifs related to the search item.
 
-After searching, if we make search bar empty. It will automatically shows trending GIFS. 
+After searching, if we make the search bar empty. It will automatically show trending GIFS. 
 
 For GIFS I used GIPHY API calls.
 
-This Website is responsive for all types of devices.
+
+This Website is responsive to all types of devices.
 
 # Preview 
 
