@@ -1,7 +1,6 @@
 import React, { useEffect, useState, useRef, useCallback } from "react";
-import axios from "axios";
 import Loader from "./Loader";
-
+import useFetch from "./useFetch";
 function usePrevious(value) {
   const ref = useRef();
   useEffect(() => {
@@ -27,16 +26,8 @@ const Giphy = () => {
     } else {
       finalURL = TRENDING_URL;
     }
-    const results = await axios(finalURL, {
-      params: {
-        api_key: "8LtZyZuQEXy64AmTffi7RH3pPha6iKRV",
-        limit: 10,
-        offset,
-      },
-    });
-    var res = [];
-    res = results.data.data;
-    console.log(results);
+    var res= [];
+    res = await useFetch(finalURL,offset);
     setData((oldre) => [...new Set([...oldre, ...res])]);
     setLoading(false)
   };
@@ -98,12 +89,12 @@ const Giphy = () => {
   };
 
   const handleSearchChange = (e) => {
-    console.log("searchText Text");
+   // console.log("searchText Text");
     setSearch(e.target.value);
   };
 
   const handleSubmit = async (e) => {
-    console.log(searchText)
+    //console.log(searchText)
     e.preventDefault();
     setData([]);
     setOffset(0)
