@@ -15,11 +15,11 @@ This Website is responsive to all types of devices.
 
 # Preview 
 
-HOME PAGE
+<h2>HOME PAGE</h2>
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/83816376/162615452-93906fda-d5f4-41b1-9809-eae2540bec51.png)
 
-AFTER SEARCH
+<h2>AFTER SEARCH</h2>
 
  ![Screenshot (35)](https://user-images.githubusercontent.com/83816376/162615619-d68c69f2-e00a-48b9-9a21-4695c5ae6699.png)
  
