@@ -8,7 +8,7 @@ There is Search Bar where you can search for any gifs, here also you can see a l
 
 After searching, if we make the search bar empty. It will automatically show trending GIFS. 
 
-For GIFS I used GIPHY API calls.
+For GIFS used GIPHY API. You can visit this Website https://developers.giphy.com/docs/sdk
 
 
 This Website is responsive to all types of devices.
