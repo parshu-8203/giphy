@@ -1,6 +1,6 @@
 # GIPHY WEBSITE
 
- Created a GIPHY Website using React, Axiom.
+ Created a GIPHY Website using React, Axios.
  <h1>Features</h1>
  <ul>
  <li>Trending GIFS</li>
@@ -37,5 +37,5 @@ This Website is responsive to all types of devices.
  <li>CSS</li>
  <li>JavaScript</li>
  <li>React</li>
- <li>Axiom</li>
+ <li>Axios</li>
  </ul>
